@@ -1,4 +1,5 @@
 import {GameClient} from './client'
+import sleep from 'sleep'
 
 let credentials = require('./credentials.json')
 

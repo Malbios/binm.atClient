@@ -11,8 +11,10 @@
   "license": "MIT",
   "dependencies": {
     "@types/request": "^2.47.0",
+    "@types/sleep": "0.0.7",
     "@types/socket.io-client": "^1.4.32",
     "request": "^2.85.0",
+    "sleep": "^5.1.1",
     "socket.io-client": "^2.1.0"
   }
 }
