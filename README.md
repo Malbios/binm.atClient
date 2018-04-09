@@ -29,5 +29,6 @@ Make sure to have a credentials.json in the top folder like this:
 # How to start
 
 ```sh
-$ ts-node main
+npm install
+ts-node main
 ```
