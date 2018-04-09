@@ -1,3 +1,11 @@
+# Custom
+private/
+credentials.json
+package-lock.json
+
+
+# GitHub gitignore template: Node
+
 # Logs
 logs
 *.log
