@@ -12,6 +12,7 @@ Binmat Rules: https://github.com/DrizzlyBear/binmat_rules
 * ts-node
 
 Make sure to have a credentials.json in the top folder like this:
+```json
 [
     {
         "user": "myFirstUser",
@@ -23,7 +24,10 @@ Make sure to have a credentials.json in the top folder like this:
         "pass": "Pass2"
     }
 ]
+```
 
 # How to start
 
-ts-node main
+```sh
+$ ts-node main
+```
